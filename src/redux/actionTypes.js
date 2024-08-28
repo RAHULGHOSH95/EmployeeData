@@ -1,0 +1,2 @@
+export const SELECT_EMPLOYEE = 'SELECT_EMPLOYEE';
+export const APPLY_OFFER = 'APPLY_OFFER';

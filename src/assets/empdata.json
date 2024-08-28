@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 30,
+      "salary": 120000,
+      "favoriteSport": "Basketball",
+      "matches": ["Match 1", "Match 2"],
+      "accomplishments": ["Champion 2021"]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 50,
+      "salary": 90000,
+      "favoriteSport": "Tennis",
+      "matches": ["Match 3", "Match 4"],
+      "accomplishments": ["Runner-up 2020"]
+    },
+    {
+      "id":3 ,
+      "name": "Rohit Sharma",
+      "age": 30,
+      "salary": 160000,
+      "favoriteSport": "Cricket",
+      "matches": ["Match 1", "Match 2"],
+      "accomplishments": ["Champion 2021"]
+    },
+    {
+      "id":4 ,
+      "name": "VIrat Kohli",
+      "age": 46,
+      "salary": 10000,
+      "favoriteSport": "Cricket",
+      "matches": ["Match 1", "Match 2"],
+      "accomplishments": ["Champion 2021"]
+    }
+  ]
+  
